@@ -1,0 +1,3 @@
+person:farmer
+crop:grains
+pesticide:urea
